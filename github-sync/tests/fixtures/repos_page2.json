@@ -1,0 +1,18 @@
+[
+  {
+    "id": 103,
+    "name": "gamma",
+    "full_name": "octo/gamma",
+    "private": false,
+    "description": "third repo",
+    "fork": false,
+    "html_url": "https://github.com/octo/gamma",
+    "language": "Python",
+    "stargazers_count": 44,
+    "forks_count": 9,
+    "open_issues_count": 5,
+    "archived": false,
+    "pushed_at": "2024-07-20T12:00:00Z",
+    "updated_at": "2024-07-20T12:30:00Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "name": "alpha",
+    "full_name": "octo/alpha",
+    "private": false,
+    "description": "first repo",
+    "fork": false,
+    "html_url": "https://github.com/octo/alpha",
+    "language": "Go",
+    "stargazers_count": 12,
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "archived": false,
+    "pushed_at": "2024-06-01T10:00:00Z",
+    "updated_at": "2024-06-01T10:05:00Z"
+  },
+  {
+    "id": 102,
+    "name": "beta",
+    "full_name": "octo/beta",
+    "private": false,
+    "description": null,
+    "fork": true,
+    "html_url": "https://github.com/octo/beta",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": true,
+    "pushed_at": "2023-01-15T08:00:00Z",
+    "updated_at": "2023-01-15T08:00:00Z"
+  }
+]
